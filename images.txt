@@ -1,4 +1,3 @@
-container-registry.oracle.com/database/free:latest
 ghcr.io/chroma-core/chroma:0.5.1
 tensorchord/pgvecto-rs:pg16-v0.2.0
 pgvector/pgvector:pg16
