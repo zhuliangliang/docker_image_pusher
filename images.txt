@@ -1,1 +1,1 @@
-pgvector/pgvector:pg16
+openjdk:17
