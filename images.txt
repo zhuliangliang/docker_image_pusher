@@ -1,1 +1,1 @@
-doccano/doccano
+starrocks/allin1-ubuntu:latest
