@@ -1,1 +1,1 @@
-myscaledb:1.6.4
+myscale/myscaledb:1.6.4
