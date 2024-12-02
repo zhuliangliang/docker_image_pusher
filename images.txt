@@ -1,1 +1,2 @@
-opensearchproject/opensearch-dashboards:2.18.0
+langgenius/dify-api:0.11.2
+langgenius/dify-web:0.11.2
