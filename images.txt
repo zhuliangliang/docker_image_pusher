@@ -1,1 +1,1 @@
-tensorflow/tensorflow:latest-gpu-jupyter
+kibana:8.15.5
