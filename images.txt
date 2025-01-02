@@ -1,1 +1,1 @@
-dify-sandbox:0.2.10
+langgenius/dify-sandbox:0.2.10
