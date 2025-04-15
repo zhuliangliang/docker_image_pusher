@@ -1,1 +1,1 @@
-ollama/ollama:latest
+eclipse-temurin:8-jre
