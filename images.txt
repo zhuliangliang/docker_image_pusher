@@ -1,1 +1,1 @@
-nvcr.io/nvidia/pytorch:23.05-py3
+pytorch/pytorch:2.7.0-cuda11.8-cudnn9-runtime
