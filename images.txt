@@ -1,1 +1,1 @@
-pytorch/pytorch:2.7.0-cuda11.8-cudnn9-runtime
+node:20.9.0
