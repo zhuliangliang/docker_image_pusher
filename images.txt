@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.12
+snowdreamtech/frpc:0.64.0
