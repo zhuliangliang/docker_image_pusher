@@ -1,2 +1,1 @@
-snowdreamtech/frpc:0.64.0
 zxwei/mineru-api-full:2.5.4
