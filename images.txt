@@ -1,1 +1,1 @@
-zxwei/mineru-api-full:2.5.4
+zxwei/mineru-api-full:v2.5.4
