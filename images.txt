@@ -1,1 +1,1 @@
-zxwei/mineru-api-full:v2.5.4
+node:20.10.0
