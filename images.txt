@@ -1,1 +1,1 @@
-unsloth/unsloth
+pgvector/pgvector:pg16
