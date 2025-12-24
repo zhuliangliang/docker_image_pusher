@@ -1,1 +1,1 @@
-pgvector/pgvector:pg16
+traefik:v3.0
