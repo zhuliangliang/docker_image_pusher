@@ -1,1 +1,1 @@
-ghcr.io/astral-sh/uv:python3.10-bookworm-slim
+guergeiro/pnpm:lts-latest-slim
