@@ -1,1 +1,1 @@
-guergeiro/pnpm:lts-latest-slim
+nginx:alpine
