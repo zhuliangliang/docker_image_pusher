@@ -1,1 +1,2 @@
 1panel/openclaw:2026.3.8
+chroma:0.6.3
