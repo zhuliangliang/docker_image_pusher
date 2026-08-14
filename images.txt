@@ -1,1 +1,2 @@
-neo4j:5-community
+mem0-official:760dca6f3912
+pgvector/pgvector:pg17@sha256:dd467f03ca5c5581222490e5217e48a262864ccb659be559f8491bbafdc97da0
