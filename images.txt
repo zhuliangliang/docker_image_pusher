@@ -1,1 +1,1 @@
-harness/harness
+node:22-alpine
